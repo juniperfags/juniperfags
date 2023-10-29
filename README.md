@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**juniperfags/juniperfags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi there 👋, I'm Luis</h2>
+<p>I'm currently a software engineer at <strong><a href="https://acidlabs.com/en/">Acid Labs</a></strong> based in Peru. I'm working on some side projects.
+<p><a href="https://www.linkedin.com/in/luis-huayta-6a123b1a2/"><img src="https://img.shields.io/badge/-@Jfags-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/luis-huayta-6a123b1a2/" alt="LinkedIn Badge"></a> <a href="https://github.com/juniperfags"><img src="https://img.shields.io/badge/-@juniperfags-676767?style=flat-square&amp;labelColor=676767&amp;logo=github&amp;link=https://github.com/juniperfags" alt="Github Badge"></a></p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/RamuC3DmHMoGAk8Jnq/giphy-downsized-large.gif" />
+<h2>Something about me</h2>
+<ul>
+<li>🧐 Learning about <strong>DevOps culture</strong>, <strong>server management</strong>, and a bit of <strong>AI </strong> stuff.</li>
+<li>📝 <del>Usually</del> upload some personal projects on <a href="https://github.com/juniperfags">my github</a>. So if you don't want to miss it, then check it right now!!!</li>
+<li>💬 Ping me about <strong>backend development</strong>.</li>
+</ul>
+<h2>Tech stack usually use</h2>
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
