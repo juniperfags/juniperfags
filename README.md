@@ -5,6 +5,8 @@
 
 <p align="left"><img src="https://media.giphy.com/media/RamuC3DmHMoGAk8Jnq/giphy-downsized-large.gif" width="350" height="350" /><p/>
 <h2>Something about me</h2>
+
+
 <ul>
 <li>🧐 Learning about <strong>DevOps culture</strong>, <strong>server management</strong>, and a bit of <strong>AI </strong> stuff.</li>
 <li>📝 <del>Usually</del> upload some personal projects on <a href="https://github.com/juniperfags">my github</a>. So if you don't want to miss it, then check it right now!!!</li>
