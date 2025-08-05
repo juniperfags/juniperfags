@@ -1,6 +1,6 @@
-## About Me
+## Hi there ✌️
 
-I am a backend engineer with over 5 years of experience developing and maintaining scalable systems. My focus is on backend development, cloud infrastructure and optimizing system performance.
+Software engineer focused on backend development with almost 5 YoE working with technologies related to Typescript and Java, as well as with AWS cloud-based solutions
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/luis-huayta-6a123b1a2/)](https://www.linkedin.com/in/luis-huayta-6a123b1a2/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-676767?style=flat-square&logo=github&link=https://github.com/juniperfags)](https://github.com/juniperfags)
@@ -22,6 +22,6 @@ I am a backend engineer with over 5 years of experience developing and maintaini
 </p>
 
 ## Contact
-- 📩 Email: juniperfags6@gmail.com  
+- 📩 Email: perplaramzägmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luis-huayta-6a123b1a2/)
 
